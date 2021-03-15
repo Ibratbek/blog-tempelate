@@ -1,10 +1,10 @@
 # 📝 Daily Journal
 A daily journal (blog template) where the user may fork and customize the content to compose and publish blog posts.
 ## Table of Contents
-* [Start](#general-info)
-* [Usage](#general-info)
-* [Built With](#general-info)
-* [Author](#general-info)
+* [Start](#Start)
+* [Usage](#Usage)
+* [Built With](#Built-with)
+* [Author](#Author)
 ## Start
 ```bash
 npm start
