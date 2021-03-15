@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: lightyellow;
+}
+
+.container{
+    margin: auto;
+    width: 80%;    
+}
+
+.logo-brand{
+    float: left;
+    color: lightseagreen;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.active{
+    color: red;
+    text-decoration: none;
+}
+
+.nav-item{
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+    color: lightseagreen;    
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 25px;
+    border-bottom: 1px solid lightseagreen;    
+}
+
+.footer{
+    margin-top: 310px;
+
+    color: rgb(26, 127, 145); 
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid lightseagreen;     
+    position:relative;
+    bottom:0;
+    width: 100%;
+}
+.time{
+    font-size: 15px;
+}
+
+.header-admin{
+    color: rgb(26, 127, 145);
+}
+

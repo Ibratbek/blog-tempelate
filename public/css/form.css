@@ -1,0 +1,40 @@
+form{
+    margin: auto;
+    width: 60%;
+    margin-top: 30px;
+}
+
+form label{
+    font-size: 25px;
+    color: rgb(26, 127, 145);
+    
+}
+
+form input{
+    width: 60%;
+    height: 30px;
+    border-radius: 2px 2px;
+    border:1px solid black;
+    outline: none;
+}
+
+.postbox{
+    width: 60%;
+    height: 120px;
+    
+}
+
+button{
+    font-size: 20px;
+    margin-left:45%;
+    border: 1px solid black;
+    border-radius: 2px 2px;
+    color: rgb(26, 127, 145);
+    background:white;
+    cursor: pointer;
+}
+
+button:hover{
+    background:rgb(26, 127, 145);
+    color: white;
+}
