@@ -12,7 +12,10 @@ npm start
 ## Usage
 
 ```javascript
-const exoress = require('express');
+const express = require("express");
+const bodyParser = require('body-parser');
+var _ = require('lodash');
+
 const app = express();
 ```
 ## Built with
