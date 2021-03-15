@@ -1,11 +1,20 @@
 # 📝 Daily Journal
 A daily journal (blog template) where the user may fork and customize the content to compose and publish blog posts.
 ## Table of Contents
-* [Deployment](#general-info)
+* [Start](#general-info)
+* [Usage](#general-info)
 * [Built With](#general-info)
 * [Author](#general-info)
-## Deployment
-Demo: 
+## Start
+```bash
+npm start
+```
+## Usage
+
+```javascript
+const exoress = require('express');
+const app = express();
+```
 ## Built with
 * HTMl
 * CSS
