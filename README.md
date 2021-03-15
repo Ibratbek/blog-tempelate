@@ -6,4 +6,12 @@ A daily journal (blog template) where the user may fork and customize the conten
 * [Author](#general-info)
 ## Deployment
 Demo: 
+## Built with
+* HTMl
+* CSS
+* JavaScript
+* EJs
+* NodeJS + Express
+## Author
+* [Tillaberdiyev Ibrat](https://t.me/Ibrat_Tillaberdiyev)
 
