@@ -76,3 +76,4 @@ app.get('/posts/:postName',(req,res)=>{
 app.listen(3000,(req,res)=>{
     console.log("Server ishlashni boshladi");
 });
+//Ibrat Tillaberdiyev
